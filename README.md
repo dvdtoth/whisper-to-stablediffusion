@@ -9,7 +9,7 @@ Requires a https://huggingface.co/ account and Google Colab.
 
 Run on Colab here: https://colab.research.google.com/drive/1nk2Wj8NUYDuFCa3n487JdjQTHJQ0SrRU?usp=sharing
 
-### Sources
+### Credits
 
 Models:
  * https://github.com/openai/whisper
@@ -18,5 +18,3 @@ Models:
 Whisper to SD:
  * https://huggingface.co/spaces/fffiloni/whisper-to-stable-diffusion
  * https://colab.research.google.com/drive/12DzxLRpCEDE7OtKMlkAtHKbNVGBlk7Pz
-
-@dvdtoth
